@@ -1,0 +1,8 @@
+Bienvenido a nuestro menú:
+
+1. 💆 *Servicios*
+2. 🗓️ *Separar Cita*
+3. 📖 *Observaciones de mis terapias* (Solo en caso de no ser la primera vez)
+0. 👋 *Salir*
+
+Ingrese el número que desea
