@@ -3,7 +3,7 @@ const { Configuration, OpenAIApi } = require("openai");
 const chat = async (prompt, text) => {
      try {
         const configuration = new Configuration({
-            //apiKey: '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',
+            apiKey: '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',
           //  apiKey: process.env.OPENAI_API_KEY,
 
         });

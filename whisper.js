@@ -11,7 +11,7 @@ const voiceToText = async (path) => {
     }
     try {
         const configuration = new Configuration({
-           // apiKey: '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',
+            apiKey: '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',
     });
     const openai = new OpenAIApi(configuration);
     const resp = await openai.createTranscription(
